@@ -34,6 +34,7 @@ The client is back for a last time with a request for you to help create a page 
 
 
 ## Validate the Accessibility Page
+There are several intentional errors in the HTML page and the CSS page. Validate the pages on your site and fix the errors.
 
 1. Validate and correct the HTML by completing the following:
     1. Using an HTML Validator, validate the web page to identify all the errors with the HTML code.
