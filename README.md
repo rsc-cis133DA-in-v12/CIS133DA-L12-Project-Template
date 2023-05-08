@@ -21,14 +21,14 @@ The client is back for a last time with a request for you to help create a page 
 
 1. If necessary, open the `accessibility.html` page.
 2. Enter your first and last name as the **metadata author** on the web page.
-3. Add an **HTML comment** below the opening body element tag and include your course name, section number, and lesson number as a comment.
-4. Remove the dummy text and replace it with an Accessibility Statement you create.
-5. Fix any broken links, including images.
-6. Complete the information within the table by entering the following in the appropriate cells.
+3. Add an **HTML comment** below the !DOCTYPE and include your course name, section number, and lesson number as a comment.
+4. Remove the dummy text and replace it with a short Accessibility Statement. Something like: `We are committed to providing an accessible website for all of our site visitors.` - You should create your own statement, do not copy this one.
+5. Fix any broken links, including links to image files and stylesheets. All images are provided for you in the images folder.
+6. Complete the information within the table by entering the following information in the appropriate cells.
     1. Provide a description of the disability.
     2. List the common barriers that are created.
     3. Identify a POUR Principle and describe the Web content that can be applied to make a website more accessible to those with each disability. 
-    > **NOTE:** The information to complete the table can be found within the Diverse Abilities and Barriers page that was provided to you within your online lesson.
+    > **NOTE:** The information to complete the table can be found within the [Diverse Abilities and Barriers](https://www.w3.org/WAI/people-use-web/abilities-barriers/) page that was provided to you within your online lesson.
 7. Modify the `styles.css` file by doing the following:
     1. Update the comment with your MEID as the author, your course and section number, and lesson number.
 
