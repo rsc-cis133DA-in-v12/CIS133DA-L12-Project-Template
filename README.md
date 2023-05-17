@@ -47,8 +47,6 @@ There are several intentional errors in the HTML page and the CSS page. Validate
 3. Evaluate and correct any accessibility issues by completing the following:
     1. Download and install the WAVE extension for your browser, if you didn’t already do this when reading the lesson.
     2. Open the accessibility.html file in your browser and use the WAVE accessibility evaluator to identify all the accessibility errors, contrast errors, and alerts.
-
-        > **NOTE:** If the WAVE tool is not showing several ERRORS, ALERTS, and CONTRAST ERRORS, you may need to upload your Lesson 11 folder to the Rio server and access the accessibility.html file on your browser to allow the WAVE tool to display the errors.<br><br>If you are using the WAVE tool on the files that you have already uploaded to the Rio Server, remember that you will have to make corrections to accessibility.html and accessibility.css in Visual Studio Code and then upload them again to the Rio server to check if all of the WAVE errors/alerts were corrected.
     3. Create a HTML comment below the closing body tag and document the issues that were found and what you did to correct the issues.
 
 ## Submit the Project
